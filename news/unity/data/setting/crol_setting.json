@@ -1,0 +1,8 @@
+{
+    "targetList" : {
+        "it"        : "https://news.naver.com/main/list.naver?mode=LS2D&mid=shm&sid1=105&sid2=230",
+        "politics"  : "https://news.naver.com/main/list.naver?mode=LS2D&mid=shm&sid1=100&sid2=269",
+        "economy"   : "https://news.naver.com/main/list.naver?mode=LS2D&mid=shm&sid1=101&sid2=263",
+        "society"   : "https://news.naver.com/main/list.naver?mode=LS2D&mid=shm&sid1=102&sid2=257"
+    }
+}
